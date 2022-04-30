@@ -5,3 +5,4 @@ openpyxl==3.0.9
 python-time==0.3.0 
 subprocess.run==0.0.8
 urllib3==1.26.9
+pip install openpyxl
